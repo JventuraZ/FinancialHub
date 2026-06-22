@@ -75,7 +75,6 @@ cp .env.example .env.local
 npm run dev
 ```
 
-A aplicação abre em `http://localhost:5173`.
 
 ### Configuração das variáveis de ambiente
 
