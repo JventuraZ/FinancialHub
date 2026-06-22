@@ -104,8 +104,7 @@ npm run preview   # pré-visualiza o build de produção localmente
 ## 📁 Estrutura do projeto
 
 ```
-src/<img width="1227" height="720" alt="image" src="https://github.com/user-attachments/assets/9cbe8c15-a25c-4605-a148-2a9da494bca1" />
-
+src/
 ├── components/        # Componentes de UI reutilizáveis
 │   ├── company/       # Perfil da empresa (header, métricas, notícias)
 │   ├── stock/         # Cotações, gráficos, busca de tickers
