@@ -4,6 +4,10 @@ Painel financeiro (dashboard) que reúne **cotações de ações em tempo real, 
 
 Os dados de mercado vêm da [Finnhub](https://finnhub.io/) e os dados de países da [REST Countries](https://restcountries.com/). As chaves de API ficam protegidas por um proxy no servidor de desenvolvimento do Vite (nunca são expostas ao navegador).
 
+<p align="center">
+  <img src="src/assets/dashboard.png" alt="FinGlobe — Dashboard" width="820" />
+</p>
+
 ---
 
 ## ✨ Funcionalidades
@@ -17,6 +21,21 @@ Os dados de mercado vêm da [Finnhub](https://finnhub.io/) e os dados de países
 | **Countries** | `/countries-api` | Explorador de dados de países via REST Countries. |
 | **News** | `/news` | Notícias por categoria: General, Forex, Crypto e M&A. |
 | **Sandbox** | `/sandbox` | Playground de análise de dados em **Python no navegador** (Pyodide) com geração de gráficos a partir de dados de mercado. |
+
+---
+
+## 📸 Capturas de tela
+
+<table>
+  <tr>
+    <td width="50%"><img src="src/assets/Profile.png" alt="Perfil da empresa" /><br/><sub><b>Company</b> — perfil da empresa</sub></td>
+    <td width="50%"><img src="src/assets/globe.png" alt="Globo 3D" /><br/><sub><b>Globe</b> — globo 3D interativo</sub></td>
+  </tr>
+  <tr>
+    <td><img src="src/assets/news.png" alt="Notícias de mercado" /><br/><sub><b>News</b> — notícias por categoria</sub></td>
+    <td><img src="src/assets/sandbox.png" alt="Sandbox Python" /><br/><sub><b>Sandbox</b> — análise de dados em Python</sub></td>
+  </tr>
+</table>
 
 ---
 
