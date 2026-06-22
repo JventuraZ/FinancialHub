@@ -143,10 +143,4 @@ Isso garante que a chave da Finnhub **não seja embutida no bundle do navegador*
 
 ---
 
-## 📝 Documentação adicional
 
-O repositório inclui documentos de planejamento e especificação:
-
-- [`SPEC.md`](./SPEC.md) — especificação do projeto
-- [`PLANO-IMPLEMENTACAO.md`](./PLANO-IMPLEMENTACAO.md) — plano de implementação
-- [`ANALISE-LEADS-FINANCAS.md`](./ANALISE-LEADS-FINANCAS.md) — análise de leads/finanças
