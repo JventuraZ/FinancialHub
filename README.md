@@ -61,7 +61,7 @@ Os dados de mercado vêm da [Finnhub](https://finnhub.io/) e os dados de países
 
 ```bash
 # 1. Clonar o repositório
-git clone <url-do-seu-repositorio>
+git clone https://github.com/JventuraZ/FinancialHub.git
 cd financialProject
 
 # 2. Instalar dependências
